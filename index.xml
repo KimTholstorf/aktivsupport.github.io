@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktiv Support | Hosting</title>
+    <link>http://aktivsupport.dk/</link>
+    <description>Recent content on Aktiv Support | Hosting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language><atom:link href="http://aktivsupport.dk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>http://aktivsupport.dk/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aktivsupport.dk/kontakt/</guid>
+      <description> Brug formularen herunder Navn E-mail addresse Besked Send </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://aktivsupport.dk/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aktivsupport.dk/services/</guid>
+      <description>Virtualisering &amp;amp; Containers Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
+    </item>
+    
+  </channel>
+</rss>
