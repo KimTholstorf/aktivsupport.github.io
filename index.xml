@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aktiv Support | Hosting | Consulting</title>
+    <title>Aktiv Support | Consulting | Hosting</title>
     <link>http://aktivsupport.dk/</link>
-    <description>Recent content on Aktiv Support | Hosting | Consulting</description>
+    <description>Recent content on Aktiv Support | Consulting | Hosting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language><atom:link href="http://aktivsupport.dk/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://aktivsupport.dk/services/</guid>
-      <description>Virtualisering &amp;amp; Data Center Data Centre findes i alle størrelser og vi har en løsning til alle scanarier. Fra store automatiserede løsninger til helt små lydløse installationer ude på et kontor eller en lagerhal. For mange er public cloud essentielt og Aktiv Support kan hjælpe med denne rejse fra A-Z. Andre foretrækker bedre klarhed om ejerskab, udgifter og koltrol af virksomhedsdata som en private cloud på egen lokation kan tilbyde.</description>
+      <description>Virtualisering &amp;amp; Datacenter Datacentre findes i alle størrelser og Aktiv Support har en løsning til alle scenarier. Fra store automatiserede løsninger til helt små lydløse installationer ude på et kontor eller en lagerhal. For mange er public cloud essentielt og Aktiv Support kan hjælpe med denne rejse fra A-Z. Andre foretrækker bedre klarhed om ejerskab, udgifter og koltrol af virksomhedsdata som en private cloud på egen lokation kan tilbyde. Vi kan hjælpe med at løbe alle mulighederne igennem og designe den rigtige løsnig til jeres ambitioner eller markedskrav.</description>
     </item>
     
     <item>
@@ -22,6 +22,25 @@
       
       <guid>http://aktivsupport.dk/kontakt/</guid>
       <description> Brug formularen herunder Navn E-mail addresse Besked Send </description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://aktivsupport.dk/tak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aktivsupport.dk/tak/</guid>
+      <description>Tak for din henvendelse! Vi vender tilbage til dig så hurtigt vi kan. </description>
+    </item>
+    
+    <item>
+      <title>Om os</title>
+      <link>http://aktivsupport.dk/om/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aktivsupport.dk/om/</guid>
+      <description>Hvem Aktiv Supprt? Aktiv support er en en-mands konsulent virksomhed, med 20 års erfaring i datacenter, sikkerhed og implementering kosteffektive IT-løsninger hos virksomheder i alle størrelser.
+Kundefokus i højsædet Aktiv Support sætter en ære i at være kundens bedste og mest troværdige teknologipartner. Sat lidt på en spids, er den mest økonomiske løsning altid den mest pålidelige og ikke bare den billigste. Det er også derfor at at størstedelen af alle løsninger bygges ud fra et katalog af foretrukne teknologi-leverandører som Aktiv Support igennem 20 års har erfaret er de bedste til prisen inden for hver deres felt.</description>
     </item>
     
   </channel>
